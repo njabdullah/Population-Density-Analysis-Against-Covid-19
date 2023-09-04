@@ -1,0 +1,1 @@
+# AnalisisKepatanPendudukTerhadapCOVID-19
