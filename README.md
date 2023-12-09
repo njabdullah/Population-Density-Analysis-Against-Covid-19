@@ -1,5 +1,11 @@
 # Analisis Kepatan Penduduk Terhadap COVID-19
-Analisis ini disusun sebagai bagian dari persyaratan kompetisi Data Science Compfest 2023 oleh tim "smogaAllahmenuntun" yang terdiri dari tiga anggota: Abdullah Nasih Jasir, Abidjana Hufa, dan Keysa Anadea Aqiva Adjie.
+Analisis ini disusun sebagai bagian dari persyaratan kompetisi Data Science Compfest 2023 oleh tim "smogaAllahmenuntun" yang terdiri dari tiga anggota
+
+| Tim "smogaAllahmenuntun"               |
+|----------------------------------------|
+| Abdullah Nasih Jasir                   |
+| Abidjana Hufa                          |
+| Keysa Anadea Aqiva Adjie               |
 
 # Latar Belakang
 Penyebaran pandemi COVID-19 di Indonesia telah menjadi tantangan yang kompleks dan beragam di setiap provinsi. Sejak awal pandemi ini muncul, Indonesia telah menghadapi kesulitan dalam mengendalikan penyebaran virus yang telah menjangkiti berbagai wilayah. Pola penyebaran virus ini ternyata dapat bervariasi secara signifikan antara satu provinsi dengan provinsi lainnya, dengan perbedaan dalam hal tingkat kasus, tingkat kesembuhan, dan tingkat kematian. Perbedaan pola ini dapat dipengaruhi oleh sejumlah faktor, salah satunya adalah kepadatan penduduk yang berbeda di setiap provinsi di Indonesia.
