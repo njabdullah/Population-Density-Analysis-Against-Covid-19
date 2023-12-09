@@ -4,7 +4,7 @@ Analisis ini disusun sebagai bagian dari persyaratan kompetisi Data Science Comp
 | Anggota                   |
 |---------------------------|
 | Abdullah Nasih Jasir      |
-| Abidjana Hufa             |
+| Abidjana Hufa Hamdika     |
 | Keysa Anadea Aqiva Adjie  |
 
 # Latar Belakang
