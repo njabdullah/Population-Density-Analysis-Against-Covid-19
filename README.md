@@ -1,4 +1,4 @@
-# Analisis Kepatan Penduduk Terhadap COVID-19
+# Analisis Kepadatan Penduduk Terhadap COVID-19
 Analisis ini disusun sebagai bagian dari persyaratan kompetisi Data Science Compfest 2023 oleh tim "smogaAllahmenuntun" yang terdiri dari tiga anggota
 
 | Anggota                   |
