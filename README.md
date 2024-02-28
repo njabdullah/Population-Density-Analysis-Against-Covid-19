@@ -1,19 +1,30 @@
-# Analisis Kepadatan Penduduk Terhadap COVID-19
-Analisis ini disusun sebagai bagian dari persyaratan kompetisi Data Science Compfest 2023 oleh tim "smogaAllahmenuntun" yang terdiri dari tiga anggota
+Analysis of Population Density on COVID-19
+==========================================
 
-| Anggota                   |
-|---------------------------|
-| Abdullah Nasih Jasir      |
-| Abidjana Hufa Hamdika     |
-| Keysa Anadea Aqiva Adjie  |
+This analysis is conducted as part of the requirements for the Data Science Compfest 2023 competition by the team "smogaAllahmenuntun," consisting of three members:
 
-# Latar Belakang
-Penyebaran pandemi COVID-19 di Indonesia telah menjadi tantangan yang kompleks dan beragam di setiap provinsi. Sejak awal pandemi ini muncul, Indonesia telah menghadapi kesulitan dalam mengendalikan penyebaran virus yang telah menjangkiti berbagai wilayah. Pola penyebaran virus ini ternyata dapat bervariasi secara signifikan antara satu provinsi dengan provinsi lainnya, dengan perbedaan dalam hal tingkat kasus, tingkat kesembuhan, dan tingkat kematian. Perbedaan pola ini dapat dipengaruhi oleh sejumlah faktor, salah satunya adalah kepadatan penduduk yang berbeda di setiap provinsi di Indonesia.
+| Members |
+| --- |
+| Abdullah Nasih Jasir |
+| Abidjana Hufa Hamdika |
+| Keysa Anadea Aqiva Adjie |
 
-# Dataset
-Dataset yang digunakan untuk analisis ini dapat diakses melalui tautan berikut: <a href="https://www.kaggle.com/datasets/hendratno/covid19-indonesia">Tautan Berikut</a>
+---
+Background
+----------
 
-# Hasil Analisis
-Setelah melakukan analisis, kami dapat menyimpulkan bahwa kepadatan penduduk bukanlah faktor dominan yang secara signifikan mempengaruhi perbedaan dalam pola penyebaran COVID-19 di berbagai provinsi di Indonesia. Meskipun ada hubungan positif antara kepadatan penduduk dan penyebaran kasus COVID-19, faktor-faktor lain seperti tingkat vaksinasi, kepatuhan terhadap protokol kesehatan, dan mobilitas penduduk juga memiliki pengaruh yang cukup besar. Selain itu, kami menemukan bahwa terdapat korelasi negatif antara kepadatan penduduk dan tingkat kematian (Case Fatality Rate/CFR), yang menunjukkan bahwa provinsi dengan kepadatan penduduk tinggi cenderung memiliki tingkat kematian yang lebih rendah.
+The spread of the COVID-19 pandemic in Indonesia has posed complex and diverse challenges in every province. Since the emergence of this pandemic, Indonesia has faced difficulties in controlling the spread of the virus that has infected various regions. The pattern of virus spread can vary significantly between provinces, with differences in terms of case rates, recovery rates, and mortality rates. These variations can be influenced by several factors, one of which is the differing population densities in each province in Indonesia.
 
-Analisis ini memberikan wawasan yang penting dalam upaya mengendalikan penyebaran COVID-19 di Indonesia. Hasilnya menunjukkan bahwa solusi yang efektif untuk setiap provinsi mungkin berbeda tergantung pada faktor-faktor unik yang ada di setiap wilayah. Oleh karena itu, upaya pencegahan dan penanganan COVID-19 harus disesuaikan dengan konteks masing-masing provinsi, dengan mempertimbangkan tidak hanya kepadatan penduduk, tetapi juga faktor-faktor lain yang relevan.
+---
+Dataset
+-------
+
+The dataset used for this analysis can be accessed through the following link: [Dataset Link](https://www.kaggle.com/datasets/hendratno/covid19-indonesia)
+
+---
+Analysis Results
+----------------
+
+After conducting the analysis, we can conclude that population density is not a dominant factor significantly influencing the differences in the spread patterns of COVID-19 in various provinces in Indonesia. Although there is a positive relationship between population density and the spread of COVID-19 cases, other factors such as vaccination rates, adherence to health protocols, and population mobility also have significant influences. Additionally, we found a negative correlation between population density and the mortality rate (Case Fatality Rate/CFR), indicating that provinces with higher population densities tend to have lower mortality rates.
+
+This analysis provides important insights into efforts to control the spread of COVID-19 in Indonesia. The results suggest that effective solutions for each province may vary depending on the unique factors present in each region. Therefore, efforts to prevent and manage COVID-19 should be tailored to the context of each province, considering not only population density but also other relevant factors.
